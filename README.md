@@ -1,4 +1,4 @@
-# Sheep Diary — AI 기반 자동 일기 생성 앱 (Portfolio)
+# Sheep Diary — AI 기반 자동 일기 생성 앱
 
 ## 기여 내용 (유연우)
 
